@@ -1,5 +1,4 @@
 
-from typing import final
 import pytest
 import wodext as wod
 
